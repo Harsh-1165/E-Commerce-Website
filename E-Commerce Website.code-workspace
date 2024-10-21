@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "E-Commerce Website",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "D:/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "E-Commerce Website"
+	}
+}
